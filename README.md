@@ -1,7 +1,8 @@
 # Machine Learning with Python
 
 ## Introduction
-This is a tutorial of Machine Learning models with Python.
+This is a tutorial of Machine Learning models with Python.  
+Ref: https://byunghyun23.tistory.com/category/AI/Machine%20Learning
 
 ## Algorithms
 * Boosting
